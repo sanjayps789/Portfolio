@@ -24,7 +24,7 @@
 
 }
 
-span {
+h4 span ,p span {
     color: #ff004f;
     font-size: 40px;
     font-weight: bold;
@@ -263,9 +263,9 @@ section .myworks {
 
 
 @media screen and (max-width:480px) {
-    span {
+    h4 span ,p span  {
         color: #ff004f;
-        font-size: 18px;
+        font-size: 26px;
 
     }
 
@@ -287,13 +287,13 @@ section .myworks {
     }
 
     .intro h1 {
-        font-size: 20px;
+        font-size: 6vh;
         color: white;
 
     }
 
     .intro h1 span {
-        font-size: 25px;
+        font-size: 6vh;
         font-family: 'poppins', sans-serif;
         color: #ff004f;
     }

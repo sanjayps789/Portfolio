@@ -245,9 +245,7 @@ section .myworks {
     outline-offset: 5px;
    
 }
-.myworks .work_body3:hover{
-    transform: (45sdeg);
-}
+
 .c{
     padding: 10px 13px ;
    border: 2px solid transparent;
@@ -267,12 +265,12 @@ section .myworks {
 @media screen and (max-width:480px) {
     span {
         color: #ff004f;
-        font-size: 20px;
+        font-size: 18px;
 
     }
 
     .intro h4 {
-        font-size: 25px;
+        font-size: 20px;
         padding: 50px 0 0px 0;
         font-family: 'Josefin Sans', sans-serif;
 
@@ -289,13 +287,13 @@ section .myworks {
     }
 
     .intro h1 {
-        font-size: 10vh;
+        font-size: 20px;
         color: white;
 
     }
 
     .intro h1 span {
-        font-size: 10vh;
+        font-size: 20px;
         font-family: 'poppins', sans-serif;
         color: #ff004f;
     }
